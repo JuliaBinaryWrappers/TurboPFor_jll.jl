@@ -1,0 +1,52 @@
+[[TurboPFor]]
+arch = "aarch64"
+git-tree-sha1 = "ca4dda2ec4d462bc5791ef226d1c389bb09b4e3c"
+libc = "glibc"
+os = "linux"
+
+    [[TurboPFor.download]]
+    sha256 = "a08366a812778cf6072bd41649c85d79f5a3b2e1de15b6df55c5fcb57efb6dcd"
+    url = "https://github.com/JuliaBinaryWrappers/TurboPFor_jll.jl/releases/download/TurboPFor-v0.0.1+0/TurboPFor.v0.0.1.aarch64-linux-gnu.tar.gz"
+[[TurboPFor]]
+arch = "aarch64"
+git-tree-sha1 = "87652464ac9d4210bc21ecc7045124ae91de52d5"
+libc = "musl"
+os = "linux"
+
+    [[TurboPFor.download]]
+    sha256 = "91f818d0689ff673a16aaf41e450de405a4f876825e509b37127b1ef61251a8c"
+    url = "https://github.com/JuliaBinaryWrappers/TurboPFor_jll.jl/releases/download/TurboPFor-v0.0.1+0/TurboPFor.v0.0.1.aarch64-linux-musl.tar.gz"
+[[TurboPFor]]
+arch = "x86_64"
+git-tree-sha1 = "b9437156ac251a534b49df6f3f3b6150425adcef"
+os = "macos"
+
+    [[TurboPFor.download]]
+    sha256 = "c880830591fdb8059601f0a13ec6348dca26a7523331fc92068d107079284ec6"
+    url = "https://github.com/JuliaBinaryWrappers/TurboPFor_jll.jl/releases/download/TurboPFor-v0.0.1+0/TurboPFor.v0.0.1.x86_64-apple-darwin14.tar.gz"
+[[TurboPFor]]
+arch = "x86_64"
+git-tree-sha1 = "9e4051014a308b207fd148813f835ff3c298265b"
+libc = "glibc"
+os = "linux"
+
+    [[TurboPFor.download]]
+    sha256 = "aa34cc701c0625ce530cc3b0ac449580e2f0fc3e8b712aa1df7ddbaa8ef3b271"
+    url = "https://github.com/JuliaBinaryWrappers/TurboPFor_jll.jl/releases/download/TurboPFor-v0.0.1+0/TurboPFor.v0.0.1.x86_64-linux-gnu.tar.gz"
+[[TurboPFor]]
+arch = "x86_64"
+git-tree-sha1 = "e58ad3c4ca7725ad7e9da40d0e40af3e5d2844e8"
+libc = "musl"
+os = "linux"
+
+    [[TurboPFor.download]]
+    sha256 = "fa99249302d28d80e572d808dba8e050e93431e8c0b978db117cc3367b7468d5"
+    url = "https://github.com/JuliaBinaryWrappers/TurboPFor_jll.jl/releases/download/TurboPFor-v0.0.1+0/TurboPFor.v0.0.1.x86_64-linux-musl.tar.gz"
+[[TurboPFor]]
+arch = "x86_64"
+git-tree-sha1 = "3184e9c476abd8f84c391e237956c353736a7ace"
+os = "windows"
+
+    [[TurboPFor.download]]
+    sha256 = "6afb34978db8e71f388b1a4df2698851c3329f0e5b6d37d1f930e0c4ad798361"
+    url = "https://github.com/JuliaBinaryWrappers/TurboPFor_jll.jl/releases/download/TurboPFor-v0.0.1+0/TurboPFor.v0.0.1.x86_64-w64-mingw32.tar.gz"
